@@ -1,4 +1,4 @@
-# Mini Server untuk Berkomunikasi dengan Sartorius BCA
+# Mini Server untuk Berkomunikasi dengan Sartorius BCA dengan menggunakan Moxa 
 
 **Very Simple.**
 
