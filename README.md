@@ -13,7 +13,16 @@ Mini server ini berfungsi sebagai perantara untuk berkomunikasi dengan timbangan
 
 ## Menjalankan Server
 
-Untuk menjalankan server, gunakan perintah berikut:
+Untuk menjalankan server dengan menggunakan pilihan API yang berbeda, gunakan perintah berikut:
 
+1. Untuk menggunakan Server-Sent Events (SSE) sebagai default:
 ```bash
 npm start
+
+2. Untuk menggunakan Websocket:
+```bash
+npm run start-websocket
+
+3. Untuk menggunakan API biasa:
+```bash
+npm run start-api

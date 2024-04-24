@@ -4,7 +4,9 @@
   "description": "Mini server untuk mengambil data timbangan dari Moxa",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "start-websocket": "node soket.js",
+    "start-api": "node scale.js"
   },
   "keywords": [],
   "author": "",
