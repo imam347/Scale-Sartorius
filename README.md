@@ -18,10 +18,12 @@ Untuk menjalankan server dengan menggunakan pilihan API yang berbeda, gunakan pe
 1. Untuk menggunakan Server-Sent Events (SSE) sebagai default:
 ```bash
 npm start
+```
 
 2. Untuk menggunakan Websocket:
 ```bash
 npm run start-websocket
+```
 
 3. Untuk menggunakan API biasa:
 ```bash
